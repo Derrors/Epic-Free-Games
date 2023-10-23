@@ -1,7 +1,7 @@
-2023-10-23 06:22:07 | INFO    | __main__:stash:125 | run - {'role': 'EpicPlayer', 'headless': True}
-2023-10-23 06:22:15 | DEBUG    | __main__:create_tasks:60 | Put task - {'title': 'The Evil Within', 'url': 'https://store.epicgames.com/en-US/p/the-evil-within'}
-2023-10-23 06:22:15 | DEBUG    | __main__:create_tasks:60 | Put task - {'title': 'Eternal Threads', 'url': 'https://store.epicgames.com/en-US/p/eternal-threads-197169'}
-2023-10-23 06:22:16 | INFO    | epic_games.agent:claim_weekly_games:232 | claim_weekly_games - {'action': 'go to store', 'url': 'https://store.epicgames.com/en-US/p/the-evil-within'}
-2023-10-23 06:22:20 | INFO    | epic_games.agent:claim_weekly_games:232 | claim_weekly_games - {'action': 'go to store', 'url': 'https://store.epicgames.com/en-US/p/eternal-threads-197169'}
-2023-10-23 06:22:30 | INFO    | epic_games.agent:claim_weekly_games:263 | claim_weekly_games - {'action': 'move to webPurchaseContainer iframe'}
-2023-10-23 06:22:33 | INFO    | epic_games.agent:claim_weekly_games:265 | claim_weekly_games - {'action': 'click payment button'}
+2023-10-24 06:23:45 | INFO    | __main__:stash:125 | run - {'role': 'EpicPlayer', 'headless': True}
+2023-10-24 06:23:55 | DEBUG    | __main__:create_tasks:60 | Put task - {'title': 'The Evil Within', 'url': 'https://store.epicgames.com/en-US/p/the-evil-within'}
+2023-10-24 06:23:55 | DEBUG    | __main__:create_tasks:60 | Put task - {'title': 'Eternal Threads', 'url': 'https://store.epicgames.com/en-US/p/eternal-threads-197169'}
+2023-10-24 06:23:56 | INFO    | epic_games.agent:claim_weekly_games:232 | claim_weekly_games - {'action': 'go to store', 'url': 'https://store.epicgames.com/en-US/p/the-evil-within'}
+2023-10-24 06:24:01 | INFO    | epic_games.agent:claim_weekly_games:232 | claim_weekly_games - {'action': 'go to store', 'url': 'https://store.epicgames.com/en-US/p/eternal-threads-197169'}
+2023-10-24 06:24:13 | INFO    | epic_games.agent:claim_weekly_games:263 | claim_weekly_games - {'action': 'move to webPurchaseContainer iframe'}
+2023-10-24 06:24:18 | INFO    | epic_games.agent:claim_weekly_games:265 | claim_weekly_games - {'action': 'click payment button'}
