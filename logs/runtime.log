@@ -1,2 +1,5 @@
-2023-11-05 06:24:07 | INFO    | __main__:stash:140 | run - {'image': '20231029', 'version': '0.9.3', 'role': 'EpicPlayer', 'headless': True, 'self_supervised': True}
-2023-11-05 06:24:15 | SUCCESS    | __main__:prelude_with_context:84 | Pass claim task - {'reason': 'All free games are in my library', 'stage': 'context-prelude'}
+2023-11-06 06:22:23 | INFO    | __main__:stash:140 | run - {'image': '20231105', 'version': '0.9.3', 'role': 'EpicPlayer', 'headless': True, 'self_supervised': True}
+2023-11-06 06:22:29 | DEBUG    | __main__:create_tasks:65 | Put task - {'title': 'Turnip Boy Commits Tax Evasion', 'url': 'https://store.epicgames.com/en-US/p/turnip-boy-commits-tax-evasion-fb2084'}
+2023-11-06 06:22:31 | INFO    | epic_games.agent:claim_weekly_games:237 | claim_weekly_games - {'action': 'go to store', 'url': 'https://store.epicgames.com/en-US/p/turnip-boy-commits-tax-evasion-fb2084'}
+2023-11-06 06:22:39 | INFO    | epic_games.agent:claim_weekly_games:268 | claim_weekly_games - {'action': 'move to webPurchaseContainer iframe'}
+2023-11-06 06:22:41 | INFO    | epic_games.agent:claim_weekly_games:270 | claim_weekly_games - {'action': 'click payment button'}
