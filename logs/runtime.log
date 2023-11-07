@@ -1,5 +1,8 @@
-2023-11-07 06:23:37 | INFO    | __main__:stash:140 | run - {'image': '20231105', 'version': '0.9.3', 'role': 'EpicPlayer', 'headless': True, 'self_supervised': True}
-2023-11-07 06:23:44 | DEBUG    | __main__:create_tasks:65 | Put task - {'title': 'Turnip Boy Commits Tax Evasion', 'url': 'https://store.epicgames.com/en-US/p/turnip-boy-commits-tax-evasion-fb2084'}
-2023-11-07 06:23:47 | INFO    | epic_games.agent:claim_weekly_games:237 | claim_weekly_games - {'action': 'go to store', 'url': 'https://store.epicgames.com/en-US/p/turnip-boy-commits-tax-evasion-fb2084'}
-2023-11-07 06:23:54 | INFO    | epic_games.agent:claim_weekly_games:268 | claim_weekly_games - {'action': 'move to webPurchaseContainer iframe'}
-2023-11-07 06:23:56 | INFO    | epic_games.agent:claim_weekly_games:270 | claim_weekly_games - {'action': 'click payment button'}
+2023-11-08 06:24:02 | INFO    | __main__:stash:140 | run - {'image': '20231105', 'version': '0.9.3', 'role': 'EpicPlayer', 'headless': True, 'self_supervised': True}
+2023-11-08 06:24:10 | INFO    | __main__:claim_epic_games:96 | Try to flush cookie - {'task': 'claim_epic_games'}
+2023-11-08 06:24:13 | SUCCESS    | epic_games.agent:_login:202 | login - {'result': 'Successfully refreshed tokens'}
+2023-11-08 06:24:27 | SUCCESS    | epic_games.agent:flush_token:229 | flush_token - {'path': PosixPath('/home/runner/work/Epic-Free-Games/Epic-Free-Games/epic/user_data_dir/epic-games@derrors.li/ctx_cookie.json')}
+2023-11-08 06:24:28 | DEBUG    | __main__:create_tasks:65 | Put task - {'title': 'Turnip Boy Commits Tax Evasion', 'url': 'https://store.epicgames.com/en-US/p/turnip-boy-commits-tax-evasion-fb2084'}
+2023-11-08 06:24:28 | INFO    | epic_games.agent:claim_weekly_games:237 | claim_weekly_games - {'action': 'go to store', 'url': 'https://store.epicgames.com/en-US/p/turnip-boy-commits-tax-evasion-fb2084'}
+2023-11-08 06:24:38 | INFO    | epic_games.agent:claim_weekly_games:268 | claim_weekly_games - {'action': 'move to webPurchaseContainer iframe'}
+2023-11-08 06:24:41 | INFO    | epic_games.agent:claim_weekly_games:270 | claim_weekly_games - {'action': 'click payment button'}
