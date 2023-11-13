@@ -1,6 +1,5 @@
-2023-11-13 06:23:25 | INFO    | __main__:stash:140 | run - {'image': '20231105', 'version': '0.9.5.post1', 'role': 'EpicPlayer', 'headless': True, 'self_supervised': True}
-2023-11-13 06:23:32 | WARNING    | epic_games.agent:get_order_history:403 | Failed to get order history, cookie may have expired - {}
-2023-11-13 06:23:33 | DEBUG    | __main__:create_tasks:65 | Put task - {'title': 'Golden Light', 'url': 'https://store.epicgames.com/en-US/p/golden-light-f543b3'}
-2023-11-13 06:23:37 | INFO    | epic_games.agent:claim_weekly_games:237 | claim_weekly_games - {'action': 'go to store', 'url': 'https://store.epicgames.com/en-US/p/golden-light-f543b3'}
-2023-11-13 06:23:51 | INFO    | epic_games.agent:claim_weekly_games:268 | claim_weekly_games - {'action': 'move to webPurchaseContainer iframe'}
-2023-11-13 06:23:53 | INFO    | epic_games.agent:claim_weekly_games:270 | claim_weekly_games - {'action': 'click payment button'}
+2023-11-14 06:24:10 | INFO    | __main__:stash:140 | run - {'image': '20231105', 'version': '0.9.5.post1', 'role': 'EpicPlayer', 'headless': True, 'self_supervised': True}
+2023-11-14 06:24:17 | DEBUG    | __main__:create_tasks:65 | Put task - {'title': 'Golden Light', 'url': 'https://store.epicgames.com/en-US/p/golden-light-f543b3'}
+2023-11-14 06:24:20 | INFO    | epic_games.agent:claim_weekly_games:237 | claim_weekly_games - {'action': 'go to store', 'url': 'https://store.epicgames.com/en-US/p/golden-light-f543b3'}
+2023-11-14 06:24:30 | INFO    | epic_games.agent:claim_weekly_games:268 | claim_weekly_games - {'action': 'move to webPurchaseContainer iframe'}
+2023-11-14 06:24:33 | INFO    | epic_games.agent:claim_weekly_games:270 | claim_weekly_games - {'action': 'click payment button'}
