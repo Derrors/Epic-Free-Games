@@ -1,5 +1,4 @@
-2023-12-24 06:26:57 | ERROR    | hcaptcha_challenger.agents.playwright.control:execute:680 | task interrupt <backcall> - {'reason': 'Failed to obtain challenge response'}
-2023-12-24 06:27:29 | ERROR    | __main__:run:158 | An error has been caught in function 'run', process 'MainProcess' (3629), thread 'MainThread' (140106258037632): - {}
+2023-12-25 06:26:42 | ERROR    | __main__:run:158 | An error has been caught in function 'run', process 'MainProcess' (3625), thread 'MainThread' (139867359538048): - {}
 Traceback (most recent call last):
   File "/home/runner/work/Epic-Free-Games/Epic-Free-Games/epic/src/claim.py", line 151, in stash
     await self.claim_epic_games(context)
