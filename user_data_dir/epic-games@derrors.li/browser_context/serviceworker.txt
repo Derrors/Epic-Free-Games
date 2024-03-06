@@ -1,17 +1,5 @@
 9
 
-https://store.epicgames.com/
-https://store.epicgames.com/epic-service-worker.js
-true
-{b8dcdc9a-f6ca-4031-bdda-f97f0874caaf}
-0
-1709677651444892
-1709677651475527
-1709677650235655
-1
-true
-#
-
 https://www.epicgames.com/account/
 https://www.epicgames.com/account/epic-service-worker.js
 true
